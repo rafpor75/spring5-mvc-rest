@@ -1,4 +1,4 @@
-package guru.springframework.domain;
+package guru.springfamework.domain;
 
 import lombok.Data;
 
