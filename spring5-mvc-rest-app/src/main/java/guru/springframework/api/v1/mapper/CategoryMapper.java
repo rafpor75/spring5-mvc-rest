@@ -6,7 +6,8 @@ import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
 /**
- * Created by jt on 9/25/17.
+ * Created by RafPor on 9/25/17.
+ * RafPor
  */
 @Mapper
 public interface CategoryMapper {
